@@ -1,0 +1,2 @@
+# ProtocolBufferBuilder
+【Unity】.protoファイルをビルドしてgPRCで使えるようにするUnityエディタ拡張

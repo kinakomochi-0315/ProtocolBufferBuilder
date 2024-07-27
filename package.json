@@ -1,0 +1,9 @@
+{
+  "name": "com.kinakomochi-0315.protocol-buffer-builder",
+  "displayName": "ProtocolBufferBuilder",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "author": "kinakomochi-0315",
+  "description": "",
+  "dependencies": {}
+}
